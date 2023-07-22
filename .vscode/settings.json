@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "args.h": "c",
+        "xstring": "c",
+        "xutility": "c"
+    }
+}
